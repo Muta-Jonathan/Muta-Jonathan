@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mutagubya-jonathan-9a8083221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mutagubya jonathan" height="30" width="40" /></a>
-<a href="https://fb.com/mutagubya jonathan skilinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutagubya jonathan skilinski" height="30" width="40" /></a>
+<a href="https://fb.com/mutagubya jonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutagubya jonathan skilinski" height="30" width="40" /></a>
 <a href="https://instagram.com/mutajonathan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutajonathan123" height="30" width="40" /></a>
 </p>
 
