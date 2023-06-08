@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with [OpenMRS](https://github.com/openmrs)
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available on [https://github.com/Muta-Jonathan/](https://github.com/Muta-Jonathan/)
 
